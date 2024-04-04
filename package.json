@@ -1,0 +1,20 @@
+{
+  "name": "lrn-codewars",
+  "version": "1.0.0",
+  "description": "Project for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gam0ny/LRN-codewars.git"
+  },
+  "author": "Alina Siomukha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gam0ny/LRN-codewars/issues"
+  },
+  "homepage": "https://github.com/gam0ny/LRN-codewars#readme"
+}
