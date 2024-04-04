@@ -7,7 +7,7 @@ export function arrayDiff(a, b) {
 
 		isFound = false
 
-		for(let j = 0; i < b.length; j++) {
+		for(let j = 0; j < b.length; j++) {
 
 			if(a[i] === b[j]) {
 				isFound = true
